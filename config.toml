@@ -7,7 +7,7 @@ title = "Guojing Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Guojing 2019"
+copyright = "&copy; Guojing 2021"
 
 theme = "minimal-academic"
 enableEmoji = true
