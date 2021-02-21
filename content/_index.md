@@ -7,7 +7,7 @@ nocomments: true
 ---
 My name is Guojing Tian, and in Chinese it is 田国敬. 
 
-I am an assistant professor at the Institute of Computing Technology, Chinese Academy of Sciences. My education background is as follows.
+I am an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. My education background is as follows.
 
 - 2011.9-2017.6&emsp;&emsp;**Doctor's Degree**&emsp;&emsp;Information Security&emsp;&emsp;Prof. Qiaoyan Wen
 
