@@ -40,10 +40,10 @@ enableGitInfo = false
   mobileTencentAnalytics = "500706054"
   # Your details.
   name = "Guojing Tian"
-  bio = "Assistant Professor  ICT, CAS"
+  bio = "Associate Professor  ICT, CAS"
 
   # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  avatar = "guojing.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "guojing.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   hero_image = "hero.jpg"
 
   location = "Beijing, China"
