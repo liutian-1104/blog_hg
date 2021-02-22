@@ -6,6 +6,50 @@ noshare: true
 nocomments: true
 ---
 
+- **量子通信的起源与发展**
+
+  &emsp;&emsp;【通识核心课程-影响未来经济的新科技与新产业】中央财经大学 
+
+  &emsp;&emsp; 2020年11月24日
+
+- **量子通信的起源与发展**
+
+  &emsp;&emsp;【通识核心课程-影响未来经济的新科技与新产业】中央财经大学 
+
+  &emsp;&emsp; 2020年11月22日
+
+- **Optimization of CNOT circuits on topological superconducting processors**
+
+  &emsp;&emsp;2019 量子算法与复杂性研讨会，深圳
+
+  &emsp;&emsp;2019年10月24-25日
+
+- **量子计算基础与量子算法**
+
+  &emsp;&emsp;数学科学学院学术报告，黑龙江大学
+
+  &emsp;&emsp;2019年9月2-5日
+
+  &emsp;&emsp;http://math.hlju.edu.cn/info/1976/2627.htm
+
+- **《量子计算》暑期课程 中南大学**
+
+  &emsp;&emsp;2019年7月8-12日
+
+  &emsp;&emsp;https://cse.csu.edu.cn/info/1041/1322.htm
+
+- **Local discrimination of three generalized Bell states and the experimental realization on IBM quantum processor**
+
+  &emsp;&emsp;2019年第五届全国量子物理青年学者研讨会，西安
+
+  &emsp;&emsp;2019年7月24-25日
+
+  &emsp;&emsp;http://news.xupt.edu.cn/info/1002/15872.htm
+
+- **局域区分性及 IBM-Q 实现，华为**
+
+  &emsp;&emsp;2019年7月12日
+
 - **Local discrimination of three generalized Bell states**
 
   &emsp;&emsp;18th Asian Quantum Information Science Conference (AQIS'18), Nagoya, Japan
