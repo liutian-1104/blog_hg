@@ -15,13 +15,16 @@ nocomments: true
 
 16. Pei Yuan, **Guojing Tian**, Xiaoming Sun, Strong quantum nonlocality without entanglement in multipartite quantum systems, Phys. Rev. A, 102, 4, 042228 (2020).
 
-    &emsp;&emsp; 
-    corresponding author
+
 
 15. Kai Liu, Yi Zhang, Kai Lu, Xiaoping Wang, Xin Wang, and **Guojing Tian**, MapEff: An Effective Graph Isomorphism Agorithm Based on the Discrete-Time Quantum Walk, Entropy, 21, 6, 569 (2019).
-    &emsp;&emsp;
+
+
 
 14. Bujiao Wu, Jiaqing Jiang, Jialin Zhang, **Guojing Tian**, and Xiaoming Sun, Local unitary classification for sets of generalized Bell states. Phys. Rev. A, 98, 2, 022304 (2018).&emsp;&emsp;
+
+
+
 
 13. Ya Cao, **Guojing Tian**, Zhichao Zhang, Yinghui Yang, Qiaoyan Wen, and Fei Gao. Composite control for protecting two nonorthogonal qubit states against decoherence. Phys. Rev. A, 95, 3, 032313 (2017).
 
