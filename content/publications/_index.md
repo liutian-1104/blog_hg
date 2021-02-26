@@ -7,8 +7,14 @@ noshare: true
 nocomments: true
 ---
 
+15. **量子通信的起源与发展**
+
+  &emsp;&emsp;【通识核心课程-影响未来经济的新科技与新产业】中央财经大学 
+
+  &emsp;&emsp; 2020年11月24日
 
 16. Pei Yuan, **Guojing Tian**, Xiaoming Sun, Strong quantum nonlocality without entanglement in multipartite quantum systems, Phys. Rev. A, 102, 4, 042228 (2020).
+
     &emsp;&emsp; 
     corresponding author
 
