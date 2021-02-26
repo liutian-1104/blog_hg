@@ -7,9 +7,9 @@ noshare: true
 nocomments: true
 ---
 
-16. Pei Yuan, **Guojing Tian**, Xiaoming Sun, Strong quantum nonlocality without entanglement in multipartite quantum systems, Phys. Rev. A, 102, 4, 042228 (2020). \
+16. Pei Yuan, **Guojing Tian**, Xiaoming Sun, Strong quantum nonlocality without entanglement in multipartite quantum systems, Phys. Rev. A, 102, 4, 042228 (2020). 
 
-15. Kai Liu, Yi Zhang, Kai Lu, Xiaoping Wang, Xin Wang, and **Guojing Tian**, MapEff: An Effective Graph Isomorphism Agorithm Based on the Discrete-Time Quantum Walk, Entropy, 21, 6, 569 (2019).
+15\. Kai Liu, Yi Zhang, Kai Lu, Xiaoping Wang, Xin Wang, and **Guojing Tian**, MapEff: An Effective Graph Isomorphism Agorithm Based on the Discrete-Time Quantum Walk, Entropy, 21, 6, 569 (2019).
 
   &emsp;&emsp; 
 
