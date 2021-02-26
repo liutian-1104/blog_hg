@@ -11,14 +11,15 @@ nocomments: true
 
   &emsp;&emsp;【通识核心课程-影响未来经济的新科技与新产业】中央财经大学 
 
-  &emsp;&emsp; 2020年11月24日
+  
 
 16. Pei Yuan, **Guojing Tian**, Xiaoming Sun, Strong quantum nonlocality without entanglement in multipartite quantum systems, Phys. Rev. A, 102, 4, 042228 (2020).
 
-
+  &emsp;&emsp; 2020年11月24日
 
 15. Kai Liu, Yi Zhang, Kai Lu, Xiaoping Wang, Xin Wang, and **Guojing Tian**, MapEff: An Effective Graph Isomorphism Agorithm Based on the Discrete-Time Quantum Walk, Entropy, 21, 6, 569 (2019).
 
+  &emsp;&emsp; 2020年11月24日
 
 
 14. Bujiao Wu, Jiaqing Jiang, Jialin Zhang, **Guojing Tian**, and Xiaoming Sun, Local unitary classification for sets of generalized Bell states. Phys. Rev. A, 98, 2, 022304 (2018).&emsp;&emsp;
